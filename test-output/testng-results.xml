@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-11T18:14:09 IST" name="Default suite" finished-at="2022-07-11T18:14:27 IST" duration-ms="18901">
+    <groups>
+    </groups>
+    <test started-at="2022-07-11T18:14:09 IST" name="Default test" finished-at="2022-07-11T18:14:27 IST" duration-ms="18901">
+      <class name="com.amazon.webAutomation.Test.SearchProductTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.amazon.webAutomation.Test.SearchProductTest@43f02ef2]" started-at="2022-07-11T18:14:09 IST" name="init" finished-at="2022-07-11T18:14:18 IST" duration-ms="9592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="getWebDriver()[pri:0, instance:com.amazon.webAutomation.Test.SearchProductTest@43f02ef2]" started-at="2022-07-11T18:14:18 IST" name="getWebDriver" finished-at="2022-07-11T18:14:25 IST" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebDriver -->
+        <test-method signature="testSearchProduct()[pri:1, instance:com.amazon.webAutomation.Test.SearchProductTest@43f02ef2]" started-at="2022-07-11T18:14:25 IST" name="testSearchProduct" finished-at="2022-07-11T18:14:27 IST" duration-ms="2335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+      </class> <!-- com.amazon.webAutomation.Test.SearchProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
